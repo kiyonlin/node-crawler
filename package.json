@@ -1,0 +1,15 @@
+{
+  "name": "node-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "thworld": "node thworld.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "log4js": "^2.4.1",
+    "puppeteer": "^0.13.0"
+  }
+}
